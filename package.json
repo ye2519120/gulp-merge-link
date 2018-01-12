@@ -1,0 +1,49 @@
+{
+  "name": "gulp-merge-link",
+  "version": "0.1.2",
+  "description": "Merge -link-tag or -script-tag on html.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aDaiCode/gulp-merge-link.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulpfriendly",
+    "merge",
+    "link",
+    "html",
+    "concat",
+    "script",
+    "combine"
+  ],
+  "author": {
+    "name": "adai",
+    "email": "aDaiCode@163.com"
+  },
+  "homepage": "https://github.com/aDaiCode/gulp-merge-link",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aDaiCode/gulp-merge-link/issues"
+  },
+  "dependencies": {
+    "through2": "^0.6.3",
+    "minimatch": "^2.0.8",
+    "gulp-util": "^3.0.0",
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "event-stream": "^3.2.2",
+    "gulp": "^3.8.10",
+    "mocha": "^2.1.0",
+    "vinyl": "^0.4.6",
+    "through2": "^0.6.3",
+    "minimatch": "^2.0.8",
+    "gulp-util": "^3.0.0",
+    "chalk": "^1.0.0"
+  },
+  "_from": "gulp-merge-link@git+https://github.com/dawang90/gulp-merge-link.git",
+  "_resolved": "https://github.com/dawang90/gulp-merge-link.git#master"
+}
